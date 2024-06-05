@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## ["China's Intellectual-property Supply Chain and Evidence of Under-reported U.S. to Tax Haven Transactions"](../assets/Underreported_IP_web.pdf)
+## ["China's Intellectual-property Supply Chain and Evidence of Under-reported U.S. to Tax Haven Transactions"](/xueruikou.github.io/assets/Underreported_IP_web.pdf)
 
 **Abstract:**  We use a modified gravity model to incorporate the difference between tax havens and non-tax havens in terms of the productivity of a country's imports as they relate to its exports. We hypothesize that, controlling for export level, tax havens have lower reported imports compared to the true value. This lower value of imports reflects the artificially low transfer pricing by MNEs. Our model is focused on trade in intangibles assets because the pricing of this trade is more difficult for any tax authorities to observe. The analysis relies on unique country-level bilateral data on services trade, which is the Balanced Trade in Services Datasets (BaTiS) published by the OECD and the WTO. Using a fixed-effect model, we find evidence consistent with a pattern of under-reported intellectual property values that move from the US to a third country and ultimately to China. The proportional distortion is roughly 35%. The sizeable distortion, however, is less apparent when we aggregate to total services, of which intellectual property is a component. This finding is consistent with the argument that intangible assets are the most important source of profit shifting.
 
