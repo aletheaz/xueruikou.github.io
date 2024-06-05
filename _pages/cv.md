@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV link](../files/CV._Xuerui_CHN.pdf)
+**you can find my curriculum vitae here: [Xuerui Kou's CV](../assets/CV._Xuerui_CHN.pdf)
