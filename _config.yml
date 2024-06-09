@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/xueruikou.github.io/assets/kxr.png"
+  avatar           : "kxr.png"
   name             : "Xuerui Kou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Economics at University of Nebraska-Lincoln"
