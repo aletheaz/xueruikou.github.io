@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Xuerui Kou.
+Welcome! My name is Xuerui Kou (寇雪蕊).
 
 I am a Ph.D. candidate in [Economics](https://business.unl.edu/academic-programs/departments/economics/) at [University of Nebraska-Lincoln](https://www.unl.edu/). 
 
